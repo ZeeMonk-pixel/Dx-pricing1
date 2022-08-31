@@ -9,11 +9,16 @@
         font-size: 25px;
     }
     .header-list h2{
-        font-size: 16px;
-        /* width: 70px; */
-        /* border: 2px solid yellowgreen; */
+        display: none;
     }
-    
+    .mobile-h2{
+        display: flex;
+        /* border: 2px solid yellow; */
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 0;
+    }
     /* header section ends here  */
     
     /* pricing-box section starts here  */
