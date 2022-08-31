@@ -1,0 +1,36 @@
+@media screen and (max-width: 1120px) {
+    
+    /* starts here  */
+    /* ends here  */
+    
+    /* header section starts here  */
+    
+    .header-list h1{
+        font-size: 25px;
+    }
+    .header-list h2{
+        font-size: 16px;
+        /* width: 70px; */
+        /* border: 2px solid yellowgreen; */
+    }
+    
+    /* header section ends here  */
+    
+    /* pricing-box section starts here  */
+    
+    .pricing-box{
+        width: 90%;
+        height: 100%;
+        margin: 0 auto;
+    }
+    .pricing-box__container{
+        flex-direction: column;
+        padding: 20px 0;
+    }
+    .price-box__container-items{
+        border: 2px solid transparent;
+    }
+    
+    /* pricing-box section ends here  */
+    
+    }
