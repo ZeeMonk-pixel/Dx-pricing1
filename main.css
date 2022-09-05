@@ -94,7 +94,7 @@ body{
 }
 
 .pricing-box{
-    border: 1px solid #000000;
+    border: 2px solid #000000;
     width: 1000px;
     height: 650px;
     margin: 0 auto;
@@ -113,7 +113,7 @@ body{
     justify-content: center;
 }
 .price-box__container-items{
-    border-right: 1px solid #000000;
+    border-right: 2px solid #000000;
     padding: 15px;
     /* width: 25%; */
 }
